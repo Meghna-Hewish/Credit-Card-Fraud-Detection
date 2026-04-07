@@ -53,3 +53,14 @@ This project focuses on building a predictive model to accurately classify trans
 ---
 
 ## 📂 Project Structure
+
+## 🏗️ System Architecture
+
+The system follows these steps:
+1. Data preprocessing  
+2. Training model  
+3. Testing data  
+4. Evaluation using confusion matrix  
+
+<img width="764" height="570" alt="ArchitectureDiagram" src="https://github.com/user-attachments/assets/cb5736d6-affb-4b19-8232-05ea7d4a9e87" />
+
