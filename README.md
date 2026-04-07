@@ -128,10 +128,14 @@ This project aims to build an effective fraud detection system using machine lea
 
 ## ▶️ How to Run
 
-1. Clone the repository  
-2. Navigate to folder
-3. Install dependencies
-4. Run
+This project is based on machine learning concepts implemented using Python and Jupyter Notebook.
+
+The full implementation details, algorithms, and results are documented in the project report.
+
+To understand the workflow:
+1. Review the project report (linked below)  
+2. Explore the system architecture and methodology  
+3. Analyse the model performance and results  
 
 ---
 
